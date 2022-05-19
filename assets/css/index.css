@@ -1,0 +1,32 @@
+.list-style-none {
+  list-style: none;
+}
+
+.nav-menu url {
+  gap: 50px;
+}
+
+.disp-flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.justfiy-between {
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.justify-end {
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: end;
+}
+
+.align-baseline {
+  -webkit-box-align: baseline;
+      -ms-flex-align: baseline;
+          align-items: baseline;
+}
+/*# sourceMappingURL=index.css.map */
